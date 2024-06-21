@@ -20,14 +20,18 @@ The SpaCy library is used to implement sentiment analysis on Amazon product revi
 
 The following libraries are required to run this code:
 
-SpaCy
-SpacyTextBlob
-pandas
+• SpaCy
 
+• SpacyTextBlob
+
+• Pandas
+
+#
 2. Getting Started
 
 To get started, you can simply clone this repo and run the main file. Make necessary changes to suit your own needs.
 
+#
 3. Usage
 
 Firstly, data needs to be collected to train the model. In this case, data is downloaded as a .csv file from Kaggle - find the link to the file in the description. To adjust the usage of this program, feel free to replace the .csv file with any data you want to implement sentiment analysis on.
@@ -36,6 +40,7 @@ The data is then preprocessed and the en_core_web_sm model is loaded from the Sp
 
 Finally, polarity score is calculated as the data passed through the model and compared to a base score. A value of Positive, Negative or Neutral is returned.
 
+#
 4. Contact Information
 
 Please direct any questions to any of the following:
