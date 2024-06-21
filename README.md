@@ -5,6 +5,7 @@ The final capstone project for HyperionDev bootcamp
 # Description
 
 The SpaCy library is used to implement sentiment analysis on Amazon product reviews
+
 • Data file link: https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products
 
 # Table of Contents
@@ -13,7 +14,8 @@ The SpaCy library is used to implement sentiment analysis on Amazon product revi
 2. Getting started
 3. Usage
 4. Contact Information
-   
+
+
 1. Installation
 
 The following libraries are required to run this code:
@@ -39,4 +41,5 @@ Finally, polarity score is calculated as the data passed through the model and c
 Please direct any questions to any of the following:
 
 • Email: jincy.perutty@gmail.com
+
 • LinkedIn: www.linkedin.com/in/jincy-perutty-ba14a9237
