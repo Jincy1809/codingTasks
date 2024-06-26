@@ -1,4 +1,4 @@
-# AmazonCapstone
+# codingTasks
 
 The final capstone project for HyperionDev bootcamp
 
